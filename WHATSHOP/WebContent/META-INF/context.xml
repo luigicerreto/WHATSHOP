@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context allowCasualMultipartParsing="true">
+<Resource name="jdbc/easyshop"
+auth="Container" 
+driverClassName="com.mysql.jdbc.Driver" 
+type="javax.sql.DataSource" 
+username="root"
+password="password" 
+url="jdbc:mysql://localhost:3306/whatshop?autoReconnect=true&amp;useSSL=false"/>
+
+<Manager pathname="">
+      <saveOnRestart>false</saveOnRestart>
+</Manager> 
+
+
+</Context>
