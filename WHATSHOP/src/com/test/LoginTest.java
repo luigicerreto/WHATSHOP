@@ -10,7 +10,6 @@ public class LoginTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
-		
 	}
 
 	@AfterClass
@@ -19,7 +18,7 @@ public class LoginTest {
 
 	@Test
 	public void test() {
-		
+		fail("Not yet implemented");
 	}
 
 }
